@@ -1,0 +1,3 @@
+from python:3
+add holamundo.py /
+cmd ["python",  "./holamundo.py"]
